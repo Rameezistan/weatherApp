@@ -1,3 +1,11 @@
+![alt text](image.png)
+
+1. Download the zip and open in vs code
+2. Open the Terminal and Type npm i
+3. Press npm run dev to run the project
+4. Enjoy!
+
+Follow (https://instagram.com/rameezdocode)
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
